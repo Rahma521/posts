@@ -1,0 +1,15 @@
+body {
+    font-family: 'Sacramento', cursive;
+    font-size: 18px;
+    text-align: center;
+}
+header {
+    border-bottom: 1px solid #999;
+    margin: 50px;
+    font-size: 20px;
+    font-family: 'Sacramento', cursive;
+    color: #400082;
+}
+div{
+    margin-bottom: 20px;
+}
